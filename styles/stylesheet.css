@@ -1,0 +1,11 @@
+body {
+	background-color:red;
+}
+
+#a {
+	font-size:1000%;
+}
+.b {
+	border-style: solid;
+	border-width: medium;
+}

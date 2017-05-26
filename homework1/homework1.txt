@@ -1,0 +1,16 @@
+Important tag css
+tags learned :
+	-img
+	-a href
+	-paragraph
+	-table
+	-head
+	-body
+	-
+create website using learned tags in addition to frames, div, and caption
+html tags :
+	- frames (iframe), uses, what they are?
+	- embed
+	- div
+	- caption
+	- canvas
